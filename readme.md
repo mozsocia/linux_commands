@@ -17,3 +17,9 @@ https://superuser.com/questions/112078/delete-matching-files-in-all-subdirectori
 ```
 find . -name '*.pdf' -delete
 ```
+
+TO that directory
+
+```
+find "/home/mozdalif/dir1/dir11/" -name '*.vtt' -delete
+```
