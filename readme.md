@@ -23,3 +23,14 @@ TO that directory
 ```
 find "/home/mozdalif/dir1/dir11/" -name '*.vtt' -delete
 ```
+
+
+
+
+### rar file make into parts
+
+https://superuser.com/questions/396813/how-do-i-rar-a-file-into-several-parts-in-linux
+
+```
+rar a -v50m first.rar folder_name
+```
