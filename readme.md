@@ -24,6 +24,16 @@ TO that directory
 find "/home/mozdalif/dir1/dir11/" -name '*.vtt' -delete
 ```
 
+### delete folder recursively
+
+```
+find . -type d -name "foo" -exec rm -rf {} +
+```
+
+```
+find . -type d -name "bar" -exec rm -rf "{}" \;
+```
+
 
 
 
