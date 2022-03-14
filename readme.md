@@ -46,3 +46,13 @@ sudo apt-get install rar
 
 rar a -v50m first.rar folder_name
 ```
+
+
+
+### Copy Using Linux
+ path that contains folder you want to copy
+ ```
+%cd /gdrive/My Drive/...
+%cp -av YOUR_FOLDER NEW_FOLDER_COPY
+```
+If you’re wondering what % is for, it’s simply the Google Colab way of signaling to the notebook to run a Linux terminal command.
