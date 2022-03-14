@@ -56,3 +56,11 @@ rar a -v50m first.rar folder_name
 %cp -av YOUR_FOLDER NEW_FOLDER_COPY
 ```
 If you’re wondering what % is for, it’s simply the Google Colab way of signaling to the notebook to run a Linux terminal command.
+
+
+### size of a directory
+https://linuxize.com/post/how-get-size-of-file-directory-linux/
+
+```
+du -sh dir_name
+```
