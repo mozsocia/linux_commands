@@ -64,3 +64,7 @@ https://linuxize.com/post/how-get-size-of-file-directory-linux/
 ```
 du -sh dir_name
 ```
+
+
+
+https://askubuntu.com/questions/633945/how-can-i-merge-multiple-directories-into-one
