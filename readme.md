@@ -37,7 +37,9 @@ find . -type d -name "bar" -exec rm -rf "{}" \;
 find . -type d -name "foo" -exec rm -rf {} + -print
 ```
 
+https://linuxhint.com/linux-find-command-tutorial/
 
+https://askubuntu.com/questions/339015/what-does-mean-in-the-find-command
 
 
 ### rar file make into parts
