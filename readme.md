@@ -32,6 +32,9 @@ find . -type d -name "foo" -exec rm -rf {} +
 
 ```
 find . -type d -name "bar" -exec rm -rf "{}" \;
+
+
+find . -type d -name "foo" -exec rm -rf {} + -print
 ```
 
 
