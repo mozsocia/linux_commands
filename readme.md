@@ -1,3 +1,8 @@
+### append "pre" to the beginning of every file in the current directory
+``` 
+for file in *; do mv "$file" "pre$file"; done
+```
+
 ### How to Remove Files and Directories Using Linux Command Line
 
 https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/
